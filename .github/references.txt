@@ -1,0 +1,7 @@
+//For CSS Flex Styling
+https://tobiasahlin.com/blog/common-flexbox-patterns/
+
+//For ticTac function (adding the idea of using turn as a numerical variable)
+https://stackoverflow.com/questions/56508951/how-do-i-keep-track-of-players-turn-in-game
+
+Help was also received by Alo Maldonado

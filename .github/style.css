@@ -1,0 +1,15 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    flex: 0 32%;
+    height: 100px;
+    margin-bottom: 2%;
+  }
+
+.container {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }

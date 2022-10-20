@@ -1,0 +1,7 @@
+create a 3x3 grid
+create an event listener that will change color when clicked
+the color cannot be changed one clicked
+have a message that displays the players turn
+make a reset button that clears the progress
+make a functionality to keep track of wins and losses
+make a functionality for a draw
